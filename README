@@ -1,3 +1,5 @@
 Delta Sys-Ad Tasks
 
 In this repo I will be posting my completed tasks in sys ad profile for Delta inductions.
+
+For Task 2, I have created a database 'timedb' with user 'prabakar' and password 'praba1110'. I then created a table 'timer' with a column 'Time'.While executing, change the database and user names in the 'task2.py' script. 
